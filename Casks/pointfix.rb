@@ -1,6 +1,6 @@
 cask "pointfix" do
   version "0.2.0"
-  sha256 "19bc79135809938d372ce78fc5f12b6b87ef065403938b10838555fe7256b9ba"
+  sha256 "e42a20e9d5ac39e4892611345c1b11f337baafaf864a11c5164fc3de41037247"
 
   url "https://download.pointfix.dev/Pointfix-#{version}.dmg"
   name "Pointfix"
