@@ -5,9 +5,9 @@ cask "pointfix" do
   url "https://download.pointfix.dev/Pointfix-#{version}.dmg"
   name "Pointfix"
   desc "Point at a UI problem and your local coding agent fixes it"
-  homepage "https://pointfix.dev"
+  homepage "https://pointfix.dev/"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Pointfix.app"
 
