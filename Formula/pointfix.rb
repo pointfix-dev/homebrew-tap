@@ -1,8 +1,8 @@
 class Pointfix < Formula
   desc "Point at a UI problem and Pointfix has your local coding agent fix it"
   homepage "https://pointfix.dev"
-  url "https://download.pointfix.dev/cli/pointfix-0.2.1.tgz"
-  sha256 "600b824fdf3cc266448547c37b50ed69e0d86ed590dc3b10ca2f65dbfee48553"
+  url "https://download.pointfix.dev/cli/pointfix-0.2.2.tgz"
+  sha256 "1fa90082778ea6b23012dc00a26c5fc1f456c28cc3c2a4e610c51fb0b218ba80"
   license :cannot_represent # proprietary, free to use
 
   depends_on "node"
